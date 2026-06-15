@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey,%20I'm%20Maitri!%20👋&fontSize=50&fontAlignY=38&desc=CS%20undergrad%20%7C%20Builder%20%7C%20Backend%20nerd&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Build+it.+Break+it.+Fix+it.+Ship+it.+🚀;Python+%2B+Flask+%2B+Linux+%3D+%E2%9D%A4%EF%B8%8F;CTF+player+%7C+NGO+dev+%7C+Lifelong+learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Build+it.+Break+it.+Fix+it.+Ship+it.+🚀;Python+%2B+Flask+%2B+Linux+%3D+%E2%9D%A4%EF%B8%8F;CTF+player+%7C+NGO+dev+%7C+Lifelong+learner" alt="" />
 
 </div>
 
@@ -58,7 +58,7 @@ From building an **NGO library system** from scratch to shipping a **trekking ma
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maitrijain07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/maitrijain07/])
 
 </div>
 
