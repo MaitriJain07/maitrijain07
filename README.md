@@ -34,7 +34,6 @@ I don't just write code — I **own the stack**. From the first line of Python t
 | 📚 **Kumar Sabha (NGO Library)** | ✅ **Live in Production** | Flask, Docker, AWS EC2, Linux, SQLite | [🔗 Live URL](http://52.66.235.213) |
 | 🐧 **Linux System Monitor** | ✅ **Completed** | Bash, Cron, Linux, AWS EC2 | [🔗 GitHub](https://github.com/MaitriJain07/linux-system-monitor) |
 | 🚧 **NGO Microservices** | 🚧 **In Progress** | Flask, Docker Compose, REST APIs | Local (Auth/Books split) |
-| 🏔️ **Trekking Platform** | ⏸️ **On Hold** | Flask, SQLite, RBAC | — |
 
 ---
 
